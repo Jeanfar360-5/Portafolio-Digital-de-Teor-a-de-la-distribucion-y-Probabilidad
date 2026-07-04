@@ -17,11 +17,11 @@
 
 > ### 📘 Unidad 1: Fundamentos Básicos
 > * **Enfoque:** Estadística Descriptiva y Conceptos Clave.
-> * **Acceso:** [Explorar Unidad 1 →](Unidad1.md)
+> * **Acceso:** [Explorar Unidad 1 →](Unidad_1/LibroUnidad_1.md)
 
 > ### 📙 Unidad 2: Avanzando a la Inferencia
 > * **Enfoque:** Inferencia Estadística Paramétrica y Pruebas.
-> * **Acceso:** [Explorar Unidad 2 →](Unidad2.md)
+> * **Acceso:** [Explorar Unidad 2 →](Unidad_2/LibroUnidad_2.md)
 
 ---
 
