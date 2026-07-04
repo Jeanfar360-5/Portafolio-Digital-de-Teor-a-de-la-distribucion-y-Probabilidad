@@ -12,5 +12,5 @@
 - [APE 4 ➡️)](tareasEntregadas/Actividad_1_Teoria_de_la_Programacion_Jeancarlos_Aguirre.pdf)
 - [APE 5 ➡️)](tareasEntregadas/Actividad_1_Teoria_de_la_Programacion_Jeancarlos_Aguirre.pdf)
 
-Variables Aleatorias y Distribuciones de Probabilidad
+
 
