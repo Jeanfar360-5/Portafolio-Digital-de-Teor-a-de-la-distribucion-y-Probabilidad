@@ -6,7 +6,8 @@
 
 ## 🧩 Contenidos APE de la Unidad 1 ⬇️
 
-- [APE1 ➡️ Variables Aleatorias y Distribuciones de Probabilidad](./APE_01_Teoría_de_la_Distribución_y_Probabilidad.ipynb)
+- [APE 0 ➡️ Fundamentos de Probabilidad](./APE_000_Fundamentos_de_Probabilidad_Grupo_F.pdf)
+- [APE 1 ➡️ Variables Aleatorias y Distribuciones de Probabilidad](./APE_01_Teoría_de_la_Distribución_y_Probabilidad.ipynb)
 - [APE 2 ➡️ Distribuciones Muestrales y Teorema del Limite Central](./APE02_GrupoF.ipynb)
 - [APE 3 ➡️ Variables Aleatorias Discretas y Continuas](./APE3_Teoria_de_la_Distribucion_y_Probabilidad.ipynb)
 - [APE 4 ➡️ Momentos Estadísticos y Análisis de Tendencia Central con Python](./APE04_GrupoF.ipynb)
