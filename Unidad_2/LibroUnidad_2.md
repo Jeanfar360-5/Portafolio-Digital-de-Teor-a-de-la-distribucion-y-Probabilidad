@@ -10,7 +10,7 @@
 - [APE 7 ➡️ Distribuciones Muestrales y Teorema del Límite Central](./APE_7.ipynb)
 - [APE 8 ➡️ Estimación de Parámetros e Intervalos de Confianza](./APE_008_Intervalos.ipynb)
 - [APE 9 ➡️ Pruebas de Hipótesis Paramétricas (Z y T) y Análisis del Valor-p](./APE9.ipynb)
-- [APE 10 ➡️ Análisis de Varianza (ANOVA de 1 factor) y Pruebas Post-Hoc (Tukey)](./APE05_Grupo_F.ipynb)
+- [APE 10 ➡️ Análisis de Varianza (ANOVA de 1 factor) y Pruebas Post-Hoc (Tukey)](./APE_010_DosMuestras_GrupoF.ipynb)
 
 
 
